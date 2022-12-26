@@ -1,0 +1,29 @@
+body{
+    background-color: #E9ECEF;
+}
+
+.topbar{
+    background-color: rgb(24, 24, 24);
+    color: aliceblue;
+    list-style: none;
+    display: flex;
+    p{
+        margin-left: 300px;
+        margin-top: 50px;
+        display: flex;
+        
+    }
+    a{
+        text-decoration: none;
+        color: aliceblue;
+    }
+    a:hover{
+        color: rgb(106, 126, 145);
+        background-color: rgb(68, 76, 78); 
+     }
+
+    i{
+        color: blanchedalmond;
+        float: end;
+    }
+    }
